@@ -3,4 +3,11 @@
 
 changed code
 
-so much winning!!!!!
+git init
+git clone [remote repo address]
+
+git add . [or files to stage]
+git commit -m "some message"
+
+git pull [pulls latest version or repo]
+git push [origin master]
